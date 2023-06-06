@@ -48,14 +48,14 @@ body {
     margin-top: -56px; 
 }
 
-.profile h3 {
+.profile h1 {
     color:  var(--DarkBlue);
     font-size: 18px;
     font-weight: 700;
     margin: 15px 0 5px 0;
 }
 
-.profile h3 span {
+.profile h1 span {
     color: var(--grayishBlue);
     font-size: 18px;
     font-weight: 400;
